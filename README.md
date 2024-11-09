@@ -26,5 +26,9 @@ To finetune the ViT:
 ```bash
 python finetune_vit.py -t [tiny,small,base]
 ```
+This script saves the mean results in terms of Accuracy, Sensitivity, and Specificity in a YAML file in the experiments folder.  It also creates a CSV file containing the metrics per each fold. 
+
+### Attention Visualization
+
 
 
