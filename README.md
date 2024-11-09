@@ -29,6 +29,12 @@ python finetune_vit.py -t [tiny,small,base]
 This script saves the mean results in terms of Accuracy, Sensitivity, and Specificity in a YAML file in the experiments folder.  It also creates a CSV file containing the metrics per fold and saves the trained model of the first fold. 
 
 ### Attention Visualization
+To visualize 50 attention visualization examples of the first fold, use:
+```bash
+python vis_attention.py -t [tiny,small,base]
+```
 
+This script saves the produced attention maps in a folder named attention maps.
+![att](images/image_48.pdf)
 
 
