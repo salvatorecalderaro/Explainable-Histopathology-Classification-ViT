@@ -11,3 +11,7 @@ It contains 245,196 tissue case images of gastric cancer belonging to the Normal
 ### Installation
 
 To install the required dependencies, use:
+
+```bash
+pip install -r requirements.txt
+```
