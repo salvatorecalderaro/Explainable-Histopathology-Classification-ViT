@@ -15,3 +15,13 @@ To install the required dependencies, use:
 ```bash
 pip install -r requirements.txt
 ```
+
+### Data Preparation
+Download the dataset and unzip one of the sub-datasets in the dataset folder. 
+
+### Fine Tuning ViT
+![vit](images/vit.png)
+To finetune the ViT: 
+
+
+
