@@ -23,5 +23,8 @@ Download the dataset and unzip one of the sub-datasets in the dataset folder.
 ![vit](images/vit.png)
 To finetune the ViT: 
 
+```bash
+python finetune_vit.py -t [tiny,small,base]
+```
 
 
