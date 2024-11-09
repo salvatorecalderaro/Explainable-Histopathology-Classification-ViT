@@ -35,6 +35,6 @@ python vis_attention.py -t [tiny,small,base]
 ```
 
 This script saves the produced attention maps in a folder named attention maps.
-![att](images/image_48.pdf)
+![att](images/image_48.png)
 
 
