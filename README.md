@@ -39,4 +39,18 @@ This script saves the produced attention maps in a folder named attention maps.
 
 ![att1](images/image_9.png)
 
+To cite this model please cite:
+```
+@inproceedings{amato2025transformers,
+  title={Transformers for Interpretable Classification of Histopathological Images},
+  author={Amato, Domenico and Calderaro, Salvatore and Marino, Giuseppe and Vella, Filippo and Rizzo, Riccardo},
+  booktitle={Computational Intelligence Methods for Bioinformatics and Biostatistics: 18th International Meeting, CIBB 2023, Padova, Italy, September 6--8, 2023, Revised Selected Papers},
+  volume={14513},
+  pages={70},
+  year={2025},
+  organization={Springer Nature}
+}
+```
+
+
 
