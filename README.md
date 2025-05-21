@@ -39,7 +39,7 @@ This script saves the produced attention maps in a folder named attention maps.
 
 ![att1](images/image_9.png)
 
-To cite this model please cite:
+If you use this model please cite:
 ```
 @inproceedings{amato2025transformers,
   title={Transformers for Interpretable Classification of Histopathological Images},
