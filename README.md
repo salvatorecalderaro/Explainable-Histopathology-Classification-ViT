@@ -43,12 +43,11 @@ If you use this model please cite:
 ```
 @inproceedings{amato2025transformers,
   title={Transformers for Interpretable Classification of Histopathological Images},
-  author={Amato, Domenico and Calderaro, Salvatore and Marino, Giuseppe and Vella, Filippo and Rizzo, Riccardo},
-  booktitle={Computational Intelligence Methods for Bioinformatics and Biostatistics: 18th International Meeting, CIBB 2023, Padova, Italy, September 6--8, 2023, Revised Selected Papers},
-  volume={14513},
-  pages={70},
+  author={Amato, Domenico and Calderaro, Salvatore and Lo Bosco, Giosu{\'e} and Marino, Giuseppe and Vella, Filippo and Rizzo, Riccardo},
+  booktitle={International Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics},
+  pages={70--88},
   year={2025},
-  organization={Springer Nature}
+  organization={Springer}
 }
 ```
 
